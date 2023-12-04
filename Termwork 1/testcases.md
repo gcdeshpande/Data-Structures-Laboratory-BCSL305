@@ -1,8 +1,8 @@
-#Test Case 1: Normal Input
-Objective: Test the program with standard input for all days.
-Input: Provide valid names, dates, and descriptions for each day.
-Expected Output: The program should correctly display all entered details without errors.
-Test Case 2: Invalid Date Input
+# Test Case 1: Normal Input
+## Objective: Test the program with standard input for all days.
+## Input: Provide valid names, dates, and descriptions for each day.
+## Expected Output: The program should correctly display all entered details without errors.
+# Test Case 2: Invalid Date Input
 Objective: Test how the program handles invalid date inputs (e.g., negative numbers, non-integer values).
 Input: Enter a negative number or a non-integer for the date field.
 Expected Output: The program should handle invalid input gracefully, either by requesting the user to re-enter the data or by displaying an error message.
