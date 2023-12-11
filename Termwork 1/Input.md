@@ -1,6 +1,6 @@
-Enter name of day 1: Monday
-Enter date: 1
-Enter description: Team meeting at 10 AM
+Enter name of day 1: Monday \
+Enter date: 1 \
+Enter description: Team meeting at 10 AM \
 
 Enter name of day 2: Tuesday
 Enter date: 2
