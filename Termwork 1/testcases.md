@@ -17,15 +17,18 @@
 - Objective: Test the program's response to empty string inputs for names and descriptions.
 - Input: Enter empty strings for some or all of the name and description fields.
 - Expected Output: The program should prompt the user to re-enter the data or handle the empty input appropriately.
-Test Case 5: Special Characters in Input
-Objective: Check how the program deals with special characters or non-alphabetic characters in names and descriptions.
-Input: Include special characters (like @, #, !, etc.) in the name and description fields.
-Expected Output: The program should either accept these characters without issue or display an appropriate error message.
-Test Case 6: Memory Allocation Failure Simulation
-Objective: Test the program's behavior in case of memory allocation failure.
-Input: Simulate memory allocation failure (this might require modifying the code to forcefully make malloc return NULL).
-Expected Output: The program should check for NULL pointers after memory allocation and handle the failure gracefully, likely by displaying an error message and exiting.
-Test Case 7: Non-Standard Input Format
-Objective: Test how the program handles unexpected or non-standard input formats.
-Input: Enter data in a format different from what is expected (like using letters for the date field).
-Expected Output: The program should either handle the non-standard input format appropriately or display an error message.
+  
+## Test Case 5: Special Characters in Input
+- Objective: Check how the program deals with special characters or non-alphabetic characters in names and descriptions.
+- Input: Include special characters (like @, #, !, etc.) in the name and description fields.
+- Expected Output: The program should either accept these characters without issue or display an appropriate error message.
+
+## Test Case 6: Memory Allocation Failure Simulation
+- Objective: Test the program's behavior in case of memory allocation failure.
+- Input: Simulate memory allocation failure (this might require modifying the code to forcefully make malloc return NULL).
+- Expected Output: The program should check for NULL pointers after memory allocation and handle the failure gracefully, likely by displaying an error message and exiting.
+
+## Test Case 7: Non-Standard Input Format
+- Objective: Test how the program handles unexpected or non-standard input formats.
+- Input: Enter data in a format different from what is expected (like using letters for the date field).
+- Expected Output: The program should either handle the non-standard input format appropriately or display an error message.
