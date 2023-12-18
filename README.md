@@ -15,8 +15,7 @@ b. Perform Pattern Matching Operation: Find and Replace all occurrences of PAT i
 exist in STR Support the program with functions for each of the above operations. Don't use Built-in functions.
 
 # Term work 3:
-#### Develop a menu driven Program in C for the following operations on STACK of Integers 
-(Array Implementation of Stack with maximum size MAX) \
+#### Develop a menu driven Program in C for the following operations on STACK of Integers (Array Implementation of Stack with maximum size MAX) 
 a. Push an Element on to Stack \
 b. Pop an Element from Stack \
 c. Demonstrate how Stack can be used to check Palindrome \
