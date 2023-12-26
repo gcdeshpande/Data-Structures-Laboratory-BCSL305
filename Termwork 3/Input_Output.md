@@ -3,7 +3,7 @@
 3. Display top element
 4. Display all stack elements
 5. Check if a number is a palindrome
-6. Exit \
+6. Exit 
 Enter your choice: 1 \
 Enter a character to push: 10 \
 Pushed to stack: 10 \
@@ -23,10 +23,10 @@ Stack elements are: \
 10 \
 \
 Enter your choice: 2 \
-Popped from stack: 30 \
+Popped from stack: 30 
 
 Enter your choice: 3 \
-Top element is: 20 \
+Top element is: 20 
 
 Enter your choice: 5 \
 Enter a number: 12321 \
