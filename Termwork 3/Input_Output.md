@@ -27,10 +27,10 @@ Popped from stack: 30 \
 \ 
 Enter your choice: 3 \
 Top element is: 20 \
-\ 
+
 Enter your choice: 5 \
 Enter a number: 12321 \
 The number is a palindrome. \
-\
+
 Enter your choice: 6 \
 Exiting...
