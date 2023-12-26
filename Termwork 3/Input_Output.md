@@ -3,7 +3,8 @@
 3. Display top element
 4. Display all stack elements
 5. Check if a number is a palindrome
-6. Exit 
+6. Exit \
+   \
 Enter your choice: 1 \
 Enter a character to push: 10 \
 Pushed to stack: 10 \
