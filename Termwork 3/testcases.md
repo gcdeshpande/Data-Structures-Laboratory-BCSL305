@@ -1,18 +1,18 @@
-Test Case 1: Pushing Characters to the Stack
-- Input: Choose option 1 (Push to stack) and enter characters like 'x', 'y', 'z'.
-- Expected Output: The program should indicate that each character is successfully pushed onto the stack.
+Test Case 1: Pushing Integers to the Stack
+- Input: Choose option 1 (Push to stack) and enter characters like '10', '20', '30'.
+- Expected Output: The program should indicate that each integer is successfully pushed onto the stack.
 
-Test Case 2: Popping Characters from the Stack
-- Input: After pushing some characters, choose option 2 (Pop from stack).
-- Expected Output: The program should pop the top character from the stack and display it.
+Test Case 2: Popping Integers from the Stack
+- Input: After pushing some Integers, choose option 2 (Pop from stack).
+- Expected Output: The program should pop the top Integer from the stack and display it.
 
 Test Case 3: Displaying the Top Element
-- Input: After pushing some characters, choose option 3 (Display top element).
-- Expected Output: The program should display the character at the top of the stack.
+- Input: After pushing some Integers, choose option 3 (Display top element).
+- Expected Output: The program should display the Integers at the top of the stack.
 
 Test Case 4: Displaying All Stack Elements
-- Input: After pushing some characters, choose option 4 (Display all stack elements).
-- Expected Output: The program should list all characters currently in the stack.
+- Input: After pushing some Integers, choose option 4 (Display all stack elements).
+- Expected Output: The program should list all Integers currently in the stack.
 
 Test Case 5: Checking for Palindrome (Positive Test)
 - Input: Choose option 5 (Check if a number is a palindrome) and enter '121'.
