@@ -17,7 +17,7 @@ Enter Phone Number: 555-1234
 
 Menu:
 1. Insert Employee at End  \
-... \ 
+... \
 Enter your choice: 1 \
 Enter SSN: 67890 \
 Enter Name: Jane Smith \
