@@ -16,7 +16,7 @@ Enter Salary: 75000 \
 Enter Phone Number: 555-1234 
 
 Menu:
-1. Insert Employee at End \
+1. Insert Employee at End 
 ... \ 
 Enter your choice: 1 \
 Enter SSN: 67890 \
@@ -24,7 +24,7 @@ Enter Name: Jane Smith \
 ... \
 Enter Phone Number: 555-5678
 
-Menu:\
+Menu: \
 ... \
 Enter your choice: 2 \
 SSN: 12345, Name: John Doe, Dept: HR, Designation: Manager, Salary: 75000.00, Phone No: 555-1234 \
@@ -54,7 +54,7 @@ Enter your choice: 5 \
 Enter SSN: 54321 \
 Enter Name: Alice Johnson \
 ... \
-Enter Phone Number: 555-7890 \
+Enter Phone Number: 555-7890 
 
 Menu: \
 ... \
@@ -73,7 +73,7 @@ Enter your choice: 6 \
 Menu: \
 ... \
 Enter your choice: 2 \
-SSN: 12345, Name: John Doe, Dept: HR, Designation: Manager, Salary: 75000.00, Phone No: 555-1234 \
+SSN: 12345, Name: John Doe, Dept: HR, Designation: Manager, Salary: 75000.00, Phone No: 555-1234 
 
 Menu: \
 ... \
