@@ -1,22 +1,23 @@
-Menu:
-1. Insert Employee at End
-2. Display Employees
-3. Count Employees
-4. Delete Employee at End
-5. Insert Employee at Front
-6. Delete Employee at Front
-7. Exit
-Enter your choice: 1
-Enter SSN: 12345
-Enter Name: John Doe
-Enter Department: HR
-Enter Designation: Manager
-Enter Salary: 75000
-Enter Phone Number: 555-1234
+Menu: \
+1. Insert Employee at End \
+2. Display Employees \
+3. Count Employees \ 
+4. Delete Employee at End \
+5. Insert Employee at Front \
+6. Delete Employee at Front \
+7. Exit \
+   
+Enter your choice: 1 \
+Enter SSN: 12345 \
+Enter Name: John Doe \
+Enter Department: HR \
+Enter Designation: Manager \
+Enter Salary: 75000 \
+Enter Phone Number: 555-1234 \
 
-Menu:
-1. Insert Employee at End
-...
+Menu:\
+1. Insert Employee at End \
+... \ 
 Enter your choice: 1
 Enter SSN: 67890
 Enter Name: Jane Smith
