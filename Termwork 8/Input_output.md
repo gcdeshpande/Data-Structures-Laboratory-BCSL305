@@ -16,7 +16,7 @@ Enter Salary: 75000 \
 Enter Phone Number: 555-1234 
 
 Menu:
-1. Insert Employee at End 
+1. Insert Employee at End  \
 ... \ 
 Enter your choice: 1 \
 Enter SSN: 67890 \
