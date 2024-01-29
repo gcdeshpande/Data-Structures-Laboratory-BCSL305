@@ -3,6 +3,7 @@
 2. Delete an Element
 3. Display Queue
 4. Exit \
+   
 Enter your choice: 1 \
 Enter a character to insert: A \
 Inserted 'A'
@@ -12,6 +13,7 @@ Inserted 'A'
 2. Delete an Element
 3. Display Queue
 4. Exit \
+   
 Enter your choice: 1 \
 Enter a character to insert: B \
 Inserted 'B'
