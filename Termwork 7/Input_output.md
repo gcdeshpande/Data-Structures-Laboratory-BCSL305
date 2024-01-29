@@ -6,7 +6,7 @@
 5. Delete at End
 6. Exit
    
-Enter your choice: 1 \ 
+Enter your choice: 1 \
 Enter USN: 1 \
 Enter Name: Alice \
 Enter Programme: CS \
@@ -64,7 +64,7 @@ Student deleted from front.
 5. Delete at End
 6. Exit
    
-Enter your choice: 2 \
+Enter your choice: 2 
 
 Student List: \
 USN: 2, Name: Bob, Programme: EC, Semester: 2, Phone: 0987654321 \
