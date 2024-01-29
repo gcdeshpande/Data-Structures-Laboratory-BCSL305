@@ -1,13 +1,13 @@
-Test Case 1: Normal Enqueue and Dequeue Operations
-Input:
-Insert characters 'A', 'B', 'C'.
-Delete an element.
-Display the queue.
-Expected Output:
-After insertions, queue should have 'A', 'B', 'C'.
-After deletion, queue should have 'B', 'C'.
-Display shows 'B', 'C'.
-Test Case 2: Queue Overflow
+## Test Case 1: Normal Enqueue and Dequeue Operations
+### Input:
+- Insert characters 'A', 'B', 'C'.
+- Delete an element.
+- Display the queue.
+### Expected Output:
+- After insertions, queue should have 'A', 'B', 'C'.
+- After deletion, queue should have 'B', 'C'.
+- Display shows 'B', 'C'.
+## Test Case 2: Queue Overflow
 Input:
 Insert characters continuously until the queue is full (more than MAX elements).
 Expected Output:
