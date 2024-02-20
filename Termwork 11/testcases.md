@@ -6,10 +6,11 @@
 - Starting city: 0
 - Method: 1 (DFS)
 ### Expected Output
-csharp
-Copy code
-```Cities reachable from city 0 using DFS:
-0 1 2 3 ```
+
+```
+Cities reachable from city 0 using DFS:
+0 1 2 3
+ ```
 
 ## Test Case 2: Graph with a Cycle
 ### Input
