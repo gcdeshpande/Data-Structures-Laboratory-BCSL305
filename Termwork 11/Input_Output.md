@@ -18,9 +18,9 @@ Cities reachable from city 1 using DFS: \
 
 Enter the starting city number between 0 and 4: 1
 
-Choose method to find reachable cities:
-1. Depth First Search (DFS)
-2. Breadth First Search (BFS)
-2
-Cities reachable from city 1 using BFS:
+Choose method to find reachable cities: \
+1. Depth First Search (DFS) \
+2. Breadth First Search (BFS) \
+2 \
+Cities reachable from city 1 using BFS: \
 1 2 4 3 0 
