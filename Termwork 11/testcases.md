@@ -1,15 +1,15 @@
 ## Test Case 1: Simple Linear Graph
 ### Input
-Number of cities: 4
-Number of roads: 3
-Roads: 0 1, 1 2, 2 3
-Starting city: 0
-Method: 1 (DFS)
+- Number of cities: 4
+- Number of roads: 3
+- Roads: 0 1, 1 2, 2 3
+- Starting city: 0
+- Method: 1 (DFS)
 ### Expected Output
 csharp
 Copy code
-Cities reachable from city 0 using DFS:
-0 1 2 3
+''' Cities reachable from city 0 using DFS:
+0 1 2 3'''
 ## Test Case 2: Graph with a Cycle
 ### Input
 Number of cities: 3
