@@ -54,14 +54,18 @@ Option 4: Search \
 When the user selects option 4, they are prompted to enter an element to search for in the BST. The program will then report whether the element is found or not.
 
 Input (Element found)
-```4```
+```
+4
+```
 Enter the element to search: 7
 Output
 ```
 Element found
 ```
 Input (Element not found)
-```4```
+```
+4
+```
 Enter the element to search: 10
 Output
 ```
