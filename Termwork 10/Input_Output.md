@@ -5,7 +5,7 @@ Let's consider the Binary Search Tree (BST) operations as described in the progr
 ```
 Note: Duplicates will be ignored in this implementation since we haven't handled duplicates specifically. The BST will only include unique values from this sequence.
 
-Sample Input and Output
+Sample Input and Output \
 Menu Display
 
 Menu
@@ -13,7 +13,8 @@ Menu
 2. Display Preorder
 3. Display Postorder
 4. Search
-5. Exit \
+5. Exit
+   
 Enter your choice:
 Option 1: Display Inorder \
 When the user selects option 1, the output will be the BST traversed in Inorder, which displays elements in ascending order.
@@ -56,14 +57,16 @@ Input (Element found)
 ```4```
 Enter the element to search: 7
 Output
+```
 Element found
-
+```
 Input (Element not found)
 ```4```
 Enter the element to search: 10
 Output
-
+```
 Element not found
+```
 Option 5: Exit \
 Selecting option 5 exits the program.
 
